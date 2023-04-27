@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ant\Desktop\Programming\Projects\2023\Massive\Massive\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Massive.vcxproj -> C:\Users\Ant\Desktop\Programming\Projects\2023\Massive\x64\Debug\Massive.exe
